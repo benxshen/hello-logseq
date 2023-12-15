@@ -1,1 +1,4 @@
+- {{renderer :drawio, 1702631232099.svg}}
+-
+- [yoyurec/logseq-banners-plugin (github.com)](https://github.com/yoyurec/logseq-banners-plugin)
 -
